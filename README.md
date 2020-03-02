@@ -1,0 +1,2 @@
+# Shaft_stress_calculations_and_profile
+MECH326_optimal_diameter_calculations
